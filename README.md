@@ -7,6 +7,11 @@ I'm a Student with a passion for programming, especially interested in Frontend 
 ## 🔧 Technologies & Tools  
 Here are some of the technologies and tools I frequently work with:
 
+- HTML
+- C#
+- CSS
+- SASS
+- JS
 - tailwind
 - parcel
 
