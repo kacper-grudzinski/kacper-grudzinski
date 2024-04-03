@@ -16,7 +16,7 @@ Here are some of the technologies and tools I frequently work with:
 
 ## 🤝 Let's Connect
 Connect with me on:
-- [LinkedIn] (https://www.linkedin.com/in/kacper-grudzi%C5%84ski-3521aa289/)
+- [LinkedIn](https://www.linkedin.com/in/kacper-grudzi%C5%84ski-3521aa289/)
 
 Feel free to reach out if you have any questions, suggestions, or just want to chat!
 <!---
